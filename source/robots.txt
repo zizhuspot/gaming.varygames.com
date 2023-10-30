@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gaming.varygames.com/sitemap.xml
