@@ -1,6 +1,6 @@
 ---
 title: How do arms dealers market guns in shooters?
-date: 2023-10-287 20:00:00
+date: 2023-10-28 20:00:00
 categories:
   - [Game News]
   - [Gaming Strategy]
